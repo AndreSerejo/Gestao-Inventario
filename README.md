@@ -1,4 +1,4 @@
-echo "# 📦 Gestão de Inventário
+**Gestão de Inventário**
 
 Este é um projeto simples para gerenciar produtos e calcular o valor total do estoque. 💼✨
 
@@ -14,4 +14,4 @@ Sinta-se à vontade para contribuir para o projeto. Toda contribuição é bem-v
 
 Agradeço por visitar!
 André Serejo
-" > DESCRICAO.md
+
