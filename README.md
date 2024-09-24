@@ -16,45 +16,45 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 Abra o terminal e execute o seguinte comando para clonar o repositório:
 
-\`\`\`bash
-git clone https://github.com/SeuUsuario/gestao-inventario.git
-\`\`\`
+   ```
+   git clone https://github.com/SeuUsuario/gestao-inventario.git
+   ````
 
 ### 🛠 Instalando Dependências
 
 1. Navegue até a pasta do projeto:
 
-   \`\`\`bash
+   ```
    cd gestao-inventario
-   \`\`\`
+   ```
 
 2. Instale as dependências necessárias:
 
-   \`\`\`bash
+   ```
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 ### ⚙️ Configurando o Projeto
 
 1. **Migrar o Banco de Dados**: Execute as migrações para criar as tabelas no banco de dados.
 
-   \`\`\`bash
+   ```
    python manage.py migrate
-   \`\`\`
+   ```
 
 2. **Criar um Superusuário**: Para acessar o painel de administração do Django, crie um superusuário.
 
-   \`\`\`bash
+   ```
    python manage.py createsuperuser
-   \`\`\`
+   ```
 
 ### ▶️ Executando o Servidor
 
 Inicie o servidor local:
 
-\`\`\`bash
-python manage.py runserver
-\`\`\`
+```
+   python manage.py runserver
+```
 
 Agora, abra o seu navegador e acesse \`http://127.0.0.1:8000\` para ver o projeto em ação! 🖥️
 
@@ -77,4 +77,4 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 - **GitHub**: [AndreSerejo](https://github.com/AndreSerejo)
 
 ---
- > README.md
+ 
