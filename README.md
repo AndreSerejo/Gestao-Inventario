@@ -12,7 +12,7 @@ Para instalar o projeto, siga as instruções detalhadas no nosso [README](https
 
 Sinta-se à vontade para contribuir para o projeto. Toda contribuição é bem-vinda! 🙌
 
-Agradeço a visita!
+Agradeço a sua visita!
 
 André Serejo
 
